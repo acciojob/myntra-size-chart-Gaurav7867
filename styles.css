@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+td,table{
+	border:1px solid black;
+	background-color:orangered;
+}
+th{
+	border:1px solid black;
+	background-color:beige;
+}
+table{
+width:100%	
+}
